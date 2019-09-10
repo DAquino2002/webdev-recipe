@@ -1,5 +1,13 @@
-div{
-    border: 5px solid orange;
-    size: 850px 600px;
-
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 10px solid orange;
+    width: 600px;
+    Height: 850px;
+    
+    
+    
+}
+h1{
+    font-size: 45px;
 }
