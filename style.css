@@ -3,11 +3,20 @@ div {
     overflow: hidden;
     border: 10px solid orange;
     width: 600px;
-    Height: 850px;
+    Height: 1200px;
+    background: lightyellow;
     
     
     
 }
 h1{
     font-size: 45px;
+    color: orangered
+}
+h6{
+    font-size: 25px;
+    color: orangered
+}
+img{
+    border:5px solid orange;
 }
